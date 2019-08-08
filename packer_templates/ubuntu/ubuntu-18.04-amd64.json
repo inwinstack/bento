@@ -284,6 +284,7 @@
         "scripts/vmware.sh",
         "../_common/parallels.sh",
         "scripts/hyperv.sh",
+        "scripts/kubeadm.sh",
         "scripts/cleanup.sh",
         "../_common/minimize.sh"
       ],
